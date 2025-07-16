@@ -1,7 +1,8 @@
 ### 안녕하세요! 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Let's&nbsp;find&nbsp;out&nbsp;what&nbsp;I&nbsp;like&nbsp;through&nbsp;experiences)](https://github.com/piyushsuthar/github-readme-quotes)
 
+### About me
 Hi👋I'm Dayeon Gwak, a **Frontend developer** living in South Korea. 
 I'm a student at Hankuk University of Foreign Studies, about to graduate in February 2026.
 I'm studying to become a front-end developer starting June 2025.  
