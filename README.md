@@ -1,16 +1,20 @@
-## Hi there 👋
+### 안녕하세요! 
 
-<!--
-**Yeon-kw/Yeon-kw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-Here are some ideas to get you started:
+Hi👋I'm Dayeon Gwak, a **Frontend developer** living in South Korea. 
+I'm a student at Hankuk University of Foreign Studies, about to graduate in February 2026.
+I'm studying to become a front-end developer starting June 2025.  
+I majored in *Japanese Interpreting* and *Software&AI*, and have been working as a Korean-Japanese interpreter.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More recently, I've been focusing on learning the technologies used in Frontend development.
+
+I have a lot of hobbies, including drawing, watching anime, reading novels, and playing games.  
+I want to be a developer who touches people's lives one day. 🌟
+
+---
+
+### 🛠Technologies and tools
+
+
+
